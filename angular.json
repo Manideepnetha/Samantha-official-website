@@ -26,9 +26,7 @@
             }
           },
           "options": {
-            "assets": ["src/favicon.ico",
-  "src/assets",
-  "src/_redirects"],
+            "assets": ["src/favicon.ico", "src/assets", "src/_redirects"],
             "index": "src/index.html",
             "browser": "src/main.ts",
             "outputPath": "dist/demo",
